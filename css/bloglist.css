@@ -7,6 +7,10 @@
     border-radius: 15px;
     overflow: scroll;
 }
+
+.post:hover {
+    box-shadow: 0 32px 64px 0 rgba(0,0,0,0.2);
+}
     
 .post-left {
     width: 15%;            
