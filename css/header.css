@@ -25,14 +25,14 @@ the title "ScriBBler" & the sub-heading below "ScriBBLer" */
 }
 
 .title{
-  font-family: 'Satisfy', cursive;
+  font-family: 'Montez', cursive;
   font-size: 30px;
   color: blue;
   margin: 0;
 }
 
 .sub-title{
-  font-family: 'Marck Script', cursive;
+  font-family: 'Ubuntu Mono', cursive;
   font-size: 10;
   color: black;
   margin: 0;
